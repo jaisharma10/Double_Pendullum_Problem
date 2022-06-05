@@ -1,1 +1,1 @@
-# ENPM673_Final_Project
+# Controlling a Double Pendulum System on a Moving Cart
